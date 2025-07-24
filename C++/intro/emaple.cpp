@@ -1,9 +1,10 @@
 #include<iostream>
-using namespace std ;
+// using namespace std ;
 
 //main function 
 
 int main () {
-    cout << "hi hello" << endl ;
+    std::cout<< "hi hello \n" <<std::endl ;
+    
     return 0;
 }
