@@ -2,6 +2,7 @@
 using namespace std;
 
 class Shape {
+
 public:
     virtual void draw() = 0;   // Pure virtual
     virtual double area() = 0; // Pure virtual
