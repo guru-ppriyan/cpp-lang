@@ -46,6 +46,7 @@ int main() {
     // Display all balances
     cout << "\n--- All Accounts ---\n";
     // for each
+    
     for (const auto &acc : accounts) {
         acc.showBalance();
     }
